@@ -12,6 +12,13 @@ namespace SistemaDeTarefas.Controllers
     [ApiController]
     public class ContaController : ControllerBase
     {
+        private readonly IConfiguration _configuration;
+
+        public ContaController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         [HttpPost]
         public IActionResult Login([FromBody] LoginModel login)
         {
@@ -25,7 +32,7 @@ namespace SistemaDeTarefas.Controllers
 
         private string GerarTokenJWT()
         {
-            string secretKey = "8fb3b9f8-6925-411d-b71e-251364633703";
+            var secretKey = _configuration["Jwt:SecretKey"];
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey));
             var credencial = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
