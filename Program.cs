@@ -13,8 +13,6 @@ namespace SistemaDeTarefas
     { 
         public static void Main(string[] args)
         {
-            string secretKey = "8fb3b9f8-6925-411d-b71e-251364633703";
-
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -54,6 +52,8 @@ namespace SistemaDeTarefas
 
             builder.Services.AddScoped<IUserRepositorio, UserRepositorio>();
             builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
+
+            var secretKey = builder.Configuration["Jwt:SecretKey"];
 
             builder.Services.AddAuthentication(options => 
             {
