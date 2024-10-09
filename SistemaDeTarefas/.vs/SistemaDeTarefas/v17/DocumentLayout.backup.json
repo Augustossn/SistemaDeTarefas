@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augus\\SistemaDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|c:\\users\\augus\\sistemadetarefas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|c:\\users\\augus\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|c:\\users\\augus\\sistemadetarefas\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|solutionrelative:controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|c:\\users\\augus\\sistemadetarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|c:\\users\\augus\\sistemadetarefas\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95889879-319B-41A9-B3B5-DA4F81919FF2}|..\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj|c:\\users\\augus\\sistemadetarefastests\\tarefatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|c:\\users\\augus\\sistemadetarefas\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2027CF8-301F-4879-A587-F95D153D80A8}|SistemaDeTarefas.csproj|solutionrelative:services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95889879-319B-41A9-B3B5-DA4F81919FF2}|..\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj|c:\\users\\augus\\sistemadetarefastests\\sistemadetarefastests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95889879-319B-41A9-B3B5-DA4F81919FF2}|..\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj|c:\\users\\augus\\sistemadetarefastests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\augus\\source\\repos\\SistemaDeTarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefas\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefas\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-09T20:56:39.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefas\\Services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "Services\\TarefaService.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefas\\Services\\TarefaService.cs",
+              "RelativeToolTip": "Services\\TarefaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:41:35.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefaTests.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefasTests\\TarefaTests.cs",
+              "RelativeDocumentMoniker": "..\\SistemaDeTarefasTests\\TarefaTests.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefasTests\\TarefaTests.cs",
+              "RelativeToolTip": "..\\SistemaDeTarefasTests\\TarefaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:19:40.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefas\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefas\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:44:06.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefas\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContaController.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefas\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "Controllers\\ContaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:57:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemaDeTarefasTests.csproj",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj",
+              "RelativeDocumentMoniker": "..\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj",
+              "RelativeToolTip": "..\\SistemaDeTarefasTests\\SistemaDeTarefasTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T20:30:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:55:05.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefas\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefas\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Controllers\\TarefaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:30:02.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\SistemaDeTarefasTests\\UserTests.cs",
+              "RelativeDocumentMoniker": "..\\SistemaDeTarefasTests\\UserTests.cs",
+              "ToolTip": "C:\\Users\\augus\\SistemaDeTarefasTests\\UserTests.cs",
+              "RelativeToolTip": "..\\SistemaDeTarefasTests\\UserTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:20:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\augus\\source\\repos\\SistemaDeTarefas\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\source\\repos\\SistemaDeTarefas\\appsettings.json",
+              "ToolTip": "C:\\Users\\augus\\source\\repos\\SistemaDeTarefas\\appsettings.json",
+              "RelativeToolTip": "..\\source\\repos\\SistemaDeTarefas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T17:48:02.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
